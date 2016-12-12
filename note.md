@@ -2,7 +2,7 @@
 >### 步骤：
 >### ①先在github网页上创建一个repository。
 ><img src="E:\编程\讲课文件&笔记\teslary\note\01.png">
->### ②在指定的文件夹下，同git软件进行clone同时建立一个md文件。如图2.地址可以直接复制
+>### ②在指定的文件夹下，同git软件进行clone同时建立一个md文件。地址可以直接复制
 ><img src="E:\编程\讲课文件&笔记\teslary\note\02.png">
 >### ③当然要先链接下远程的git库
 ><img src="E:\编程\讲课文件&笔记\teslary\note\03.png">
